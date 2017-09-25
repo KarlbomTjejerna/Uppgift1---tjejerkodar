@@ -1,8 +1,8 @@
-body 
-	{background:rgb;
-	front_size: 12 pt;
-	font-family: Helvetica;
-	max-with:600 px;
+body {
+	background-colour:lightblue;
+	font_size: 12px;
+	font-family: Verdana;
+	max-with:600px;
 	margin:0 auto;
 	}
 
@@ -10,3 +10,4 @@ body
 h1
 {colour: rgb(256, 99, 99);
 }
+
